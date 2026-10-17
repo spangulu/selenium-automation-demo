@@ -1,0 +1,1 @@
+# portfolio-demo-01  Java Selenium UI automation demo  ## Overview  This repository is a sample project for a portfolio.  ## Tech Stack  - GitHub - Java / Python / JavaScript / .NET  ## Notes  This sample was created to demonstrate project structure and GitHub publishing workflow.
